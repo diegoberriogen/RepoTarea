@@ -1,5 +1,6 @@
 Este es el texto original.
 
+
 y ahora lo estoy cambiando desde otra rama
 
-y ahora estoy modificando desde la rama principal
+ahora ya resolví conflictos 
